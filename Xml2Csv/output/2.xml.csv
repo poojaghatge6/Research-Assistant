@@ -1,0 +1,9 @@
+,aws:Name,aws:Value,aws:Date,aws:PageViews,aws:Rank,aws:Reach
+0,range,1455,2014-07-01,"{'aws:PerMillion': '0.05', 'aws:PerUser': None}",653052,{'aws:PerMillion': None}
+1,url,http://ourshareofcrazy.com,2014-07-10,"{'aws:PerMillion': '0.05', 'aws:PerUser': None}",672426,{'aws:PerMillion': None}
+2,responsegroup,History,2014-07-24,"{'aws:PerMillion': '0.05', 'aws:PerUser': None}",606911,{'aws:PerMillion': None}
+3,,,2014-11-30,"{'aws:PerMillion': '0.04', 'aws:PerUser': None}",528279,{'aws:PerMillion': None}
+4,,,2015-05-07,"{'aws:PerMillion': None, 'aws:PerUser': None}",827207,{'aws:PerMillion': '3'}
+5,,,2015-06-12,"{'aws:PerMillion': None, 'aws:PerUser': None}",643195,{'aws:PerMillion': '2'}
+6,,,2016-06-02,"{'aws:PerMillion': None, 'aws:PerUser': None}",2284201,{'aws:PerMillion': None}
+7,,,2017-01-10,"{'aws:PerMillion': None, 'aws:PerUser': None}",1964440,{'aws:PerMillion': None}
