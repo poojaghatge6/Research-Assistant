@@ -1,1 +1,3 @@
-hi
+Install pytrends API
+
+pip install --upgrade --user git+https://github.com/GeneralMills/pytrends
